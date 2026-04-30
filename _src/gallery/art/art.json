@@ -1,0 +1,5 @@
+{
+  "layout": "layout.html",
+  "permalink": "/gallery/{{ page.fileSlug | slug }}/",
+  "tags": "art"
+}

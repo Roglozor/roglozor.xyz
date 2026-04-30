@@ -1,0 +1,5 @@
+{
+  "layout": "layout.html",
+  "permalink": "/giftart/{{ page.fileSlug | slug }}/",
+  "tags": "giftart"
+}

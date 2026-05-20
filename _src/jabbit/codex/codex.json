@@ -1,0 +1,5 @@
+{
+  "layout": "layout.html",
+  "permalink": "/jabbit/codex/{{ page.fileSlug | slug }}/",
+  "tags": "jabbit-codex"
+}

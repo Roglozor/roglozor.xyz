@@ -1,0 +1,5 @@
+{
+  "layout": "layout.html",
+  "permalink": "/library/{{ page.fileSlug | slug }}/",
+  "tags": "creative"
+}

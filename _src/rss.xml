@@ -7,7 +7,7 @@
 <language>en-gb</language>
 <copyright>Copyright 2026, Roglozor. All rights reserved.</copyright>
 <webMaster>me@roglozor.xyz (Roglozor)</webMaster>
-<lastBuildDate>Thu, 21 May 2026 06:55:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 07:11:00 +0100</lastBuildDate>
 <atom:link href="https://roglozor.xyz/rss.xml" rel="self" type="application/rss+xml"/>
 
 
@@ -15,7 +15,7 @@
 <title>[Changelog] RSS feed, Jabbit home page.</title>
 <link>https://roglozor.xyz/changelog/#2026-05-20</link>
 <guid>https://roglozor.xyz/changelog/#2026-05-20</guid>
-<pubDate>Wed, 20 May 2026 04:20:00 GMT</pubDate>
+<pubDate>Wed, 20 May 2026 04:20:00 +0100</pubDate>
 <description>Visit the site to view the changelog.</description>
 </item>
 
@@ -24,7 +24,7 @@
 <title>[Library] Getting This Show On The Road...</title>
 <link>https://roglozor.xyz/library/getting-started/</link>
 <guid>https://roglozor.xyz/library/getting-started/</guid>
-<pubDate>Thu, 30 Apr 2026 21:05:00 GMT</pubDate>
+<pubDate>Thu, 30 Apr 2026 21:05:00 +0100</pubDate>
 <description>
 &lt;p&gt;
 I'll be honest, not really sure what I want to write here! I'm just excited to
@@ -118,7 +118,7 @@ OK I go now, bye bye! :)
 <title>[Changelog] Total layout revision, migration to Eleventy.</title>
 <link>https://roglozor.xyz/changelog/#2026-04-30</link>
 <guid>https://roglozor.xyz/changelog/#2026-04-30</guid>
-<pubDate>Thu, 30 Apr 2026 21:05:00 GMT</pubDate>
+<pubDate>Thu, 30 Apr 2026 21:05:00 +0100</pubDate>
 <description>Visit the site to view the changelog.</description>
 </item>
 
@@ -127,7 +127,7 @@ OK I go now, bye bye! :)
 <title>[Gallery] "Jabbit Avatar 64"</title>
 <link>https://roglozor.xyz/gallery/jabbit64/</link>
 <guid>https://roglozor.xyz/gallery/jabbit64/</guid>
-<pubDate>Tue, 10 Feb 2026 07:08:04 GMT</pubDate>
+<pubDate>Tue, 10 Feb 2026 07:08:04 +0000</pubDate>
 <description>
 A 64x64 image of Jabbit I created to be used as an avatar.
 </description>
@@ -138,7 +138,7 @@ A 64x64 image of Jabbit I created to be used as an avatar.
 <title>[Gallery] "Jabbit Ref Sheet"</title>
 <link>https://roglozor.xyz/gallery/jabbit-ref/</link>
 <guid>https://roglozor.xyz/gallery/jabbit-ref/</guid>
-<pubDate>Thu, 22 Jan 2026 11:43:19 GMT</pubDate>
+<pubDate>Thu, 22 Jan 2026 11:43:19 +0000</pubDate>
 <description>
 A 320x180 ref sheet for Jabbit to replace the original one I rushed for
 Art Fight 2025. This sheet was made in late September of 2025 but I never

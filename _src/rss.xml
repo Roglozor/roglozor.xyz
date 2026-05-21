@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Roglozor's Randomness</title>
 <link>https://roglozor.xyz</link>
@@ -7,14 +7,15 @@
 <language>en-gb</language>
 <copyright>Copyright 2026, Roglozor. All rights reserved.</copyright>
 <webMaster>me@roglozor.xyz (Roglozor)</webMaster>
-<lastBuildDate>Mon, 20 May 2026 04:20:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 06:55:00 GMT</lastBuildDate>
+<atom:link href="https://roglozor.xyz/rss.xml" rel="self" type="application/rss+xml"/>
 
 
 <item>
 <title>[Changelog] RSS feed, Jabbit home page.</title>
 <link>https://roglozor.xyz/changelog/#2026-05-20</link>
 <guid>https://roglozor.xyz/changelog/#2026-05-20</guid>
-<pubDate>Mon, 20 May 2026 04:20:00 GMT</pubDate>
+<pubDate>Wed, 20 May 2026 04:20:00 GMT</pubDate>
 <description>Visit the site to view the changelog.</description>
 </item>
 
@@ -25,12 +26,12 @@
 <guid>https://roglozor.xyz/library/getting-started/</guid>
 <pubDate>Thu, 30 Apr 2026 21:05:00 GMT</pubDate>
 <description>
-<p>
+&lt;p&gt;
 I'll be honest, not really sure what I want to write here! I'm just excited to
 finally get this thing going. I'll just be rambling about random stuff I guess.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 I've been working on a major update to this site for a little bit now and I
 thought I may as well start putting some content along with it, even if it's
 totally useless. I'm frankly terrible at web design so it's taken me far too
@@ -39,9 +40,9 @@ out much faster. Regardless, I'm having fun! At least for as long as the CSS
 I'm trying to write works and makes sense. It's hard, OK? I'm not using any of
 those fancy tools that do the under-the-hood work for you, I'm going in raw.
 Mostly.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 I ported the site to Eleventy with this latest update because my previous method
 required manually updating every single page whenever I wanted to change the
 layout at all. Bad!. I'm still doing a ton of manual edits because it's just
@@ -56,17 +57,17 @@ to a limit of 80 characters per line. I have no idea if this is possible to
 configure in Eleventy, so I'm just writing the HTML manually and having the
 tool paste the content into the layout template I gave it. It's functionally
 the same as me manually copy/pasting it all, it just saves me a ton of time.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Regardless, even with Eleventy, I'm still doing a lot of basic stuff very, very
 poorly. I don't really care right now to be honest, I just want something that
 works for now and refine it later. It's literally how I've been doing it this
 whole time after all. If I tried getting it right first time, I'd never actually
 get anything released. Good enough is good enough!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Naturally, I'm still not done but I'm happy enough with what exists here for
 the time being. The previous version required JavaScript for the navigation
 menu on mobile due to CSS restrictions on how one can reference and modify
@@ -75,9 +76,9 @@ show/hide the menu on mobile now, so no JavaScript needed! The way it looks
 and works isn't exactly how I wanted, but honestly I'm not too fussed with
 mobile support anyway, desktop is always the main target and always will be.
 It works. That's all I care about right now.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 In regards to the future, I have lots of loose ideas in my head as to what I
 want to put on this site as time marches on. The most concrete of those being
 devlogs for Jabbit, which I am still yet to reveal publicly. Other than that,
@@ -88,9 +89,9 @@ is to come, as well as working on "getting my house in order" so to speak
 regarding real life. No details, but I'm starting a new journey of self
 improvement that has been long overdue. Even so, I'll try to make time for the
 things I was already planning on here.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Unrelated to the website and my projects, but I've been super obsessed with
 Re:ZERO all over again the past few days. It's honestly been years since I
 really went out of my way to watch anime on my own, but I'm falling in love
@@ -104,11 +105,11 @@ pick the web novel back up again once season 4 finishes. Natsuki Subaru is one
 of the best MCs ever and you cannot convince me otherwise. I love him. I really
 want to collect all of the light novels physically one day but that's money.
 The web novel is free at least. Honestly insane. It's so good.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 OK I go now, bye bye! :)
-</p>
+&lt;/p&gt;
 </description>
 </item>
 

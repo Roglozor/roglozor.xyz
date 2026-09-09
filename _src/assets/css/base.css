@@ -6,14 +6,14 @@
 /* Common theme vars. Colours are from the AAP-64 Palette on Lospec:
 https://lospec.com/palette-list/aap-64 */
 :root {
-  --bg_content:               #cdf7e2;
-  --bg_menu:                  #5daf8d;
-  --bg_card:                  #a6fcdb;
+  --bg_content:               #122020;
+  --bg_menu:                  #24523b;
+  --bg_card:                  #23674e;
   --bg_header:                #92dcba;
   --border_hover:             #ffffff;
-  --font_normal:              #122020;
-  --font_link:                #bc4a9b;
-  --font_notice:              #1a7a3e;
+  --font_normal:              #e3e6ff;
+  --font_link:                #92dcba;
+  --font_notice:              #f4d29c;
   --font_warning:             #b4202a;
 
   --text_size_normal_d:       15px;
@@ -42,10 +42,10 @@ html, body {
 }
 
 body {
-  background-image: url('/assets/img/bg/body_bg.png');
-  background-repeat: no-repeat;
+  background-image: url('/assets/img/bg/tile_gpcheckers.png');
+  background-repeat: repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: 128px 128px;
   image-rendering: pixelated;
 }
 

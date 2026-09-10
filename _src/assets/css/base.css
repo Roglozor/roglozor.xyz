@@ -6,11 +6,13 @@
 /* Common theme vars. Colours are from the AAP-64 Palette on Lospec:
 https://lospec.com/palette-list/aap-64 */
 :root {
-  --bg_content:               #122020;
-  --bg_menu:                  #23674e;
-  --bg_card:                  #24523b;
-  --bg_header:                #92dcba;
-  --border_hover:             #ffffff;
+  --bg_content:               #122020cc;
+  --bg_menu:                  #23674ecc;
+  --bg_card:                  #24523bcc;
+  --bg_header:                #92dcbacc;
+
+  --border_hover:             #e3e6ff;
+
   --font_normal:              #e3e6ff;
   --font_link:                #92dcba;
   --font_notice:              #f4d29c;
@@ -44,8 +46,13 @@ html, body {
 body {
   background-image: url('/assets/img/bg/tile_gpcheckers.png');
   background-repeat: repeat;
-  background-attachment: fixed;
-  background-size: 128px 128px;
+  background-attachment: scroll;
+  background-size: 64px 64px;
+	background-position: 0px 0px;
+	animation-name: main-bg;
+  animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
   image-rendering: pixelated;
 }
 
@@ -356,4 +363,9 @@ main h1 {
   #l-wing:has(.nav-toggle:checked) {
     height: 100%;
   }
+}
+
+@keyframes main-bg {
+	from {background-position: 0px 0px;}
+	to {background-position: 32px 32px;}
 }

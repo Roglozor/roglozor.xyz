@@ -94,7 +94,7 @@ main h1 {
   overflow: hidden;
   font-size: var(--header_size_d);
   line-height: 16px;
-  background-image: url('/assets/img/bg/header_tex.png');
+  background-image: url('/assets/img/bg/tile_hfbar.png');
   background-repeat: repeat-x;
   background-size: contain;
   image-rendering: pixelated;
@@ -103,7 +103,7 @@ main h1 {
 #header h1, #header a, #footer p {
   color: var(--font_normal);
   text-decoration: none;
-  text-shadow: 1px 2px white;
+  text-shadow: 1px 2px var(--bg_menu);
 }
 
 /* The container for the main area. Everything between header and footer. */
@@ -148,7 +148,7 @@ main h1 {
   max-width: 100%;
   overflow: hidden;
   font-size: var(--footer_size_d);
-  background-image: url('/assets/img/bg/footer_tex.png');
+  background-image: url('/assets/img/bg/tile_hfbar.png');
   background-repeat: repeat-x;
   background-size: contain;
   image-rendering: pixelated;
@@ -156,7 +156,7 @@ main h1 {
 }
 
 .nav-wing {
-  background: var(--bg_menu);
+  background: #00000000;
   display: block;
   padding: 0px;
   overflow: hidden;
@@ -167,7 +167,7 @@ main h1 {
   text-decoration: none;
   color: var(--font_normal);
   display: block;
-  border: 2px solid var(--bg_menu);
+  border: 0px solid var(--bg_menu);
   border-radius: 4px;
 }
 

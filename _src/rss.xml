@@ -7,8 +7,41 @@
 <language>en-gb</language>
 <copyright>Copyright 2026, Roglozor. All rights reserved.</copyright>
 <webMaster>me@roglozor.xyz (Roglozor)</webMaster>
-<lastBuildDate>Thu, 21 May 2026 07:11:00 +0100</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 12:33:00 +0100</lastBuildDate>
 <atom:link href="https://roglozor.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+
+
+<item>
+<title>[Gallery] "Jabbit Ref Sheet 3 (Cloak)"</title>
+<link>https://roglozor.xyz/gallery/jabbit-ref-3-cloak/</link>
+<guid>https://roglozor.xyz/gallery/jabbit-ref-3-cloak/</guid>
+<pubDate>Sat, 12 Sep 2026 12:33:00 +0100</pubDate>
+<description>
+The third canon ref sheet for Jabbit, with his cloak. This one went unfinished 
+for months, I only just got around to calling it "done". 
+</description>
+</item>
+
+
+<item>
+<title>[Gallery] "Jabbit Ref Sheet 3 (No Cloak)"</title>
+<link>https://roglozor.xyz/gallery/jabbit-ref-3/</link>
+<guid>https://roglozor.xyz/gallery/jabbit-ref-3/</guid>
+<pubDate>Sat, 12 Sep 2026 12:33:00 +0100</pubDate>
+<description>
+The third canon ref sheet for Jabbit, without his cloak. This one went 
+unfinished for months, I only just got around to calling it "done". 
+</description>
+</item>
+
+
+<item>
+<title>[Changelog] Full theme refresh and new/changed content.</title>
+<link>https://roglozor.xyz/changelog/#2026-09-12</link>
+<guid>https://roglozor.xyz/changelog/#2026-09-12</guid>
+<pubDate>Sat, 12 Sep 2026 12:33:00 +0100</pubDate>
+<description>Visit the site to view the changelog.</description>
+</item>
 
 
 <item>

@@ -229,7 +229,7 @@ main h1 {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: center;
   gap: 4px;
 }
 
@@ -240,10 +240,10 @@ main h1 {
 }
 
 .gallery-item {
-  max-width: 128px;
-  max-height: 128px;
-  width: 128px;
-  height: 128px;
+  max-width: 196px;
+  max-height: 196px;
+  width: 196px;
+  height: 196px;
   padding: 4px;
   border: 2px solid var(--bg_menu);
   background: var(--bg_card);

@@ -125,30 +125,34 @@ main h1 {
   min-width: var(--nav_tablet);
   max-width: var(--nav_desktop);
   width: var(--nav_desktop);
-  height: 640px;
+  height: 100%;
   max-height: 640px;
   display: block;
   overflow-x: hidden;
   position: sticky;
   top: 4px;
-  padding: 16px;
-  background: var(--bg_menu);
-  border: 2px solid var(--bg_content);
+  padding: 12px;
+  background: var(--bg_card);
+  border: 2px solid var(--bg_menu);
   border-radius: 4px;
 	backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
 }
 
 #l-wing h1, #r-wing h1 {
-  background: var(--bg_content);
-  border: 2px solid var(--bg_content);
-  border-radius: 4px;
   margin: 0;
 	font-size: 20px;
 }
 
 #l-wing a, #r-wing a {
 	font-size: 12px;
+}
+
+#l-wing details, #r-wing details {
+	background: var(--bg_content);
+	border: 2px solid var(--bg_content);
+	border-radius: 4px;
+	margin: 0;
 }
 
 #footer {
@@ -180,15 +184,11 @@ main h1 {
   text-decoration: none;
   color: var(--font_normal);
   display: block;
-  border: 0px solid var(--bg_menu);
-  border-radius: 4px;
 }
 
 .nav-wing a:hover {
   color: var(--font_link);
-  background-color: var(--bg_content);
-  border: 2px solid var(--bg_content);
-  border-radius: 4px;
+  background-color: var(--bg_menu);
 }
 
 .nav-wing img {

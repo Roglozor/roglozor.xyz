@@ -114,10 +114,10 @@ main h1 {
 #deck {
   display: flex;
   flex-direction: row;
-  gap: 8px 8px;
+  gap: 4px 4px;
   position: relative;
   justify-content: center;
-  margin: 16px;
+  margin: 8px;
 }
 
 /* Boxes on the sides of the content. Contains the site navigation etc. */
@@ -126,11 +126,11 @@ main h1 {
   max-width: var(--nav_desktop);
   width: var(--nav_desktop);
   height: 640px;
-  max-height: 560px;
+  max-height: 640px;
   display: block;
   overflow-x: hidden;
   position: sticky;
-  top: 8px;
+  top: 4px;
   padding: 16px;
   background: var(--bg_menu);
   border: 2px solid var(--bg_content);
@@ -329,7 +329,7 @@ main h1 {
     min-width: 200px;
   }
   #deck {
-    gap: 8px 8px;
+    gap: 4px 4px;
     margin: 8px;
   }
   #l-wing {

@@ -7,8 +7,18 @@
 <language>en-gb</language>
 <copyright>Copyright 2026, Roglozor. All rights reserved.</copyright>
 <webMaster>me@roglozor.xyz (Roglozor)</webMaster>
-<lastBuildDate>Sat, 12 Sep 2026 12:33:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 16:30:00 +0100</lastBuildDate>
 <atom:link href="https://roglozor.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+
+
+<item>
+<title>[Changelog] Minor update and info on new update model going forward.
+</title>
+<link>https://roglozor.xyz/changelog/#2026-10-18</link>
+<guid>https://roglozor.xyz/changelog/#2026-10-18</guid>
+<pubDate>Sun, 18 Oct 2026 16:30:00 +0100</pubDate>
+<description>Visit the site to view the changelog.</description>
+</item>
 
 
 <item>
